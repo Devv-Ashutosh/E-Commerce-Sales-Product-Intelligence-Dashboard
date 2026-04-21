@@ -8,6 +8,18 @@
 ## Project Overview
 
 This project simulates the analytics workflow of an e-commerce business intelligence team. Rather than stopping at visualisation, the goal was to use data to answer real product and business questions — the kind that inform roadmap decisions, pricing strategy, and customer retention programs.
+### Executive Summary
+![Executive Summary](MyFolder/executive_summary.png)
+
+### Customer Analytics
+![Customer Analytics](MyFolder/customer_analytics.png)
+
+### Product Detail
+![Product Detail](MyFolder/Product_Detail.png)
+
+### Geographic Analysis
+![Geographic Analysis](MyFolder/Geographic_Analysis.png)
+
 
 The dashboard is structured across four analytical lenses:
 
@@ -180,6 +192,6 @@ adventureworks-powerbi/
 
 ## Contact
 
-Built by **Ashutosh** · [LinkedIn](https://linkedin.com/in/ashutoshhdevv) · [GitHub](https://github.com/devv-ashutosh)
+Built by **Ashutosh** · [LinkedIn](linkedin.com/in/ashutoshhdevv) · [GitHub](https://github.com/devv-ashutosh)
 
 *Part of a broader analytics portfolio focused on product-driven data analysis.*
